@@ -67,7 +67,7 @@ start call FindGW2_1.cmd 4 %a% %b% %start_c% %end_c% 96 127 %host4% %delay% %myd
 start call FindGW2_1.cmd 5 %a% %b% %start_c% %end_c% 128 159 %host5% %delay% %mydir%&timeout 3
 start call FindGW2_1.cmd 6 %a% %b% %start_c% %end_c% 160 191 %host6% %delay% %mydir%&timeout 3
 start call FindGW2_1.cmd 7 %a% %b% %start_c% %end_c% 192 223 %host7% %delay% %mydir%&timeout 3
-start call FindGW2_1.cmd 8 %a% %b% %start_c% %end_c% 224 256 %host8% %delay% %mydir%&timeout 3
+start call FindGW2_1.cmd 8 %a% %b% %start_c% %end_c% 224 255 %host8% %delay% %mydir%&timeout 3
 
 
 echo.
