@@ -56,8 +56,8 @@ pause
 cls
 cd %mydir%
 
-echo FindGW v2.0 by AKokarev (mailto:FindGW@ogurcom.ru https://github.com/akokarev/FindGW)
-echo FindGW v2.0 by AKokarev (mailto:FindGW@ogurcom.ru https://github.com/akokarev/FindGW) > gw2_1.txt
+echo FindGW v2.1 by AKokarev (https://github.com/akokarev/FindGW)
+echo FindGW v2.1 by AKokarev (https://github.com/akokarev/FindGW) > gw2_1.txt
 
 
 start call FindGW2_1.cmd 1 %a% %b% %start_c% %end_c% 0 31 %host1% %delay% %mydir%&timeout 3
