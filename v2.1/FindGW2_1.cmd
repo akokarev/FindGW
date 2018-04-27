@@ -1,5 +1,5 @@
 @ECHO OFF
-title FindGW v2.1 by AKokarev (mailto:FindGW@ogurcom.ru https://github.com/akokarev/FindGW)
+title FindGW v2.1 by AKokarev (https://github.com/akokarev/FindGW)
 echo.
 
 set mydir=%~dp0%
