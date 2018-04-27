@@ -1,6 +1,6 @@
 @ECHO OFF
 set ver=FindGW v1.1 by AKokarev
-set info=(mailto:FindGW@ogurcom.ru https://github.com/akokarev/FindGW)
+set info=(https://github.com/akokarev/FindGW)
 
 REM ===========================================================================================
 REM ===\SETTINGS/====
