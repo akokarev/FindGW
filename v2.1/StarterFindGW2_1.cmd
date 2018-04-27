@@ -1,7 +1,7 @@
 @ECHO OFF
 title Starter FindGW v2.1 by AKokarev (https://github.com/akokarev/FindGW)
 echo.
-echo FindGW v2.1 by AKokarev (mailto:FindGW@ogurcom.ru https://github.com/akokarev/FindGW)
+echo FindGW v2.1 by AKokarev (https://github.com/akokarev/FindGW)
 echo. 
 echo Pered zapuskom prover'te znacheniya peremennih:
 echo a - pervaya cifra ip
